@@ -11,8 +11,10 @@ Retrofit to consume rest apis
 There is a small database and documentation in spanish (code in english)
 
 To-dos
-*Add spring security
+*Add spring security and possibly shiro for session managment
 *Add Jool examples
+*Add password encript examples
+*some front end option (right now is only html jquery)
 *Documentation in english
 
 Conclusions
